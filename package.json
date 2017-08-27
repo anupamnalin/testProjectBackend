@@ -1,0 +1,22 @@
+{
+  "name": "testProject-backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anupamnalin/testProjectBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "debug": "^2.6.8",
+    "express": "^4.15.3",
+    "ip": "^1.1.5",
+    "yargs": "^8.0.2"
+  }
+}
