@@ -3,8 +3,7 @@ const debug = require('debug')('app:server')
 var bodyParser = require('body-parser');
 const app = express()
 
-var responseData =
-    "resturants": [
+var responseData = [
         {
         "Name": "Moets Curry Leaf",
         "menu": {
